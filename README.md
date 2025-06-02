@@ -25,7 +25,7 @@ Use Wireshark to capture live network packets and identify fundamental protocols
      ```bash
      wireshark &
      ```
-- ** For Windows
+- ** For Windows**
   1. Install using
      ```bash
      https://www.wireshark.org/
@@ -89,7 +89,7 @@ Use Wireshark to capture live network packets and identify fundamental protocols
 
 - ICMP or ICMPv6 traffic suggests that IPv4/IPv6 was in use for system-level diagnostics or pings.
 
-- Overall, the capture reflects standard and healthy network communication behavior for secure web browsing.
+Overall, the capture reflects standard and healthy network communication behavior for secure web browsing.
 
 
 ---
